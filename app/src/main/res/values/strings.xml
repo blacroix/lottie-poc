@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lottie</string>
+    <string name="stop_label">stop</string>
+    <string name="play_label">play</string>
+    <string name="play_loop">loop</string>
+    <string name="list_label">list</string>
+    <string name="name_item">Item number: %1$d</string>
+</resources>
